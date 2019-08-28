@@ -1,0 +1,14 @@
+import java.util.Scanner;
+
+public class 점수입력받기 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Scanner sc = net 
+		
+		pass(x);
+		
+	}
+	public static void pass(float x)
+
+}

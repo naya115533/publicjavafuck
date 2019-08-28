@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/naya/src/스캐너로_받아서_연산하기_다른곳에서도.java"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="1"/>
+</listAttribute>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="스캐너로_받아서_연산하기_다른곳에서도"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="naya"/>
+</launchConfiguration>

@@ -1,0 +1,18 @@
+import java.util.Scanner;
+
+public class 복습 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Scanner sc= new Scanner(System.in);
+		System.out.println("반지름");
+		float x = sc.nextFloat();
+		area(x); // 원의 넓이
+	}
+	public static void area(float x)
+	{
+		final double PIE = 3.141592;
+		double area1 = x*x*PIE;
+	}
+
+}
