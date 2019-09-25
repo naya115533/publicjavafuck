@@ -11,11 +11,9 @@ public class 매개변수_설정 {
 		// TODO Auto-generated method stub
 		int a=5, b=7, c=9;
 		hap(a,b); cha(a,b);
-		World.gop(a,b);
 		System.out.println("합="+sum(a,b,c));
 		System.out.println("합="+sum1(a,b,c));
 		System.out.println("평균="+avg(a,b,c));
-		System.out.println("평균="+World.avg(a,b,c));
 	}
 	public static void cha(int a,int b)
 	{
@@ -39,7 +37,7 @@ public class 매개변수_설정 {
 		return (a+b+c)/3;
 	}
 }
-class World
+class 월드
 {
 	public static void gop(int a,int b)
 	{

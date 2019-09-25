@@ -1,0 +1,14 @@
+package n9_18;
+class Person{
+	//속성과 메소드정의
+
+}
+public class leedaehyeon3 {
+
+	//속성과 메소드(행위)
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
